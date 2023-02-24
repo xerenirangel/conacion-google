@@ -27,4 +27,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-https://github.com/xerenirangel/conacion-google
+Aquí puedes visualizar mi proyecto terminado [Clonación de goolge](https://github.com/xerenirangel/conacion-google) 
